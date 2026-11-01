@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Projects in Electronics:</h2>
 
 - <b>Hi-fi Audio Amplifier</b>
-  - [A class D audio amplifier](https://github.com/slimeizZZz/Hi-fi-Audio-Amplifier)) <b>
+  - [A class D audio amplifier](https://github.com/slimeizZZz/Hi-fi-Audio-Amplifier) <b>
 - <b>Low Power Audio Amplifier</b>
   - [A class AB audio amplifier](https://github.com/slimeizZZz/Low-Power-Audio-Amplifier) <b>
 - <b>Sound Detector</b>
